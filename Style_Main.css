@@ -22,7 +22,10 @@
 
 
 .btn-primary{
+		font-family: 'ZCOOL QingKe HuangYou', cursive;
+		font-size: 20px;
 		background-color:orange;
+		margin-left: 45%;
 	}
 
 #btn{	
