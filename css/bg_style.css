@@ -1,0 +1,50 @@
+body{
+	background: linear-gradient(to right,brown,blue); 
+}
+
+h1{
+	font-size:45px;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.color1{
+	 display: inline-block;
+	 margin-left: 48%;
+	 margin-right: .5%;
+}
+
+.logo{
+  float: left;
+  width: 150px;
+  margin-left: 1%;
+}
+
+ul{
+  color: white;
+  list-style: none;
+  font-size:45px;
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+  margin-left: 60%;
+  margin-bottom: 10px;
+  margin-top: 0px;
+}
+
+li {
+  display: inline-block ;
+  margin-right: 4%;
+  margin-bottom: 15px;
+ }
+
+ header{
+    margin-top:0;
+ }
+
+ a {
+  text-decoration: none;
+  color: white; }
+    a:visited { color: white; }
+    a:hover { color: red; }​
+}
+
