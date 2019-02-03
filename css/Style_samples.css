@@ -1,0 +1,88 @@
+.start-btn-center{
+		/*background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/PDaTSuJ/plexus-abstract-network-titles-cinematic-background-37_szokzaw0_thumbnail-full01.png");*/
+	 	background-image: url("D:/HTML/My_Website/Artox/images/bg.jpg");
+
+	}
+
+.logo{
+  float: left;
+  width: 150px;
+  margin-left: 1%;
+}
+
+ul{
+    color: white;
+	list-style: none;
+	font-size:45px;
+	font-family: 'ZCOOL QingKe HuangYou', cursive;
+    margin-left: 60%;
+	margin-bottom: 10px;
+	margin-top: 0px;
+}
+
+li {
+ 	display: inline-block ;
+ 	margin-right: 4%;
+ 	margin-bottom: 15px;
+ }
+
+ header{
+    margin-top:0;
+ }
+
+.right{
+	float: left;
+	margin-top: 35px;
+	margin-right:2%;
+}
+
+.git{
+	border-radius: 50%;
+	width: 30px;
+	height: 30px;
+	
+}
+
+.synopsis{
+	font-size: 15px;
+	font-family: 'ZCOOL QingKe HuangYou', cursive;
+	margin-bottom: 8%;
+}
+
+#disc{
+	margin-top: 35px;
+	color: white;
+	font-size: 45px;
+	font-family: 'ZCOOL QingKe HuangYou', cursive;
+	margin-bottom: 15px;
+	}
+
+.list{
+	margin-left: 0;
+	margin-top: 2%;
+	text-align: left;
+	display: grid;
+	float: left;
+}
+
+.code{
+	color: white;
+	font-size: 25px;
+	font-family: 'ZCOOL QingKe HuangYou', cursive;
+	
+}	
+
+#grad{
+	color: white;
+	font-size: 25px;
+	font-family: 'ZCOOL QingKe HuangYou', cursive;
+}
+
+
+a{
+	color: white;
+	text-decoration: none; 
+}
+  	a:visited { color: white; }
+  	a:hover { color: red; }​
+}
