@@ -61,14 +61,9 @@ li {
 	margin-top: 5%;
 }
 
-a{
-	color: white; }
-  	a:visited { 
-  		color: white;
-  		text-decoration: none;
-  		 }
-  	a:hover { 
-  		color: red; 
-  		text-decoration: none;
-  		}​
+a {
+  text-decoration: none;
+  color: white; }
+    a:visited { color: white; }
+    a:hover { color: red; }​
 }
