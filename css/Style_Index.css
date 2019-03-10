@@ -1,11 +1,13 @@
-.logo{
-	width: 100px;
-}
-
 body{
 
    background-image: url("/images/bg.jpg");
 }	
+
+.logo{
+	width: 100px;
+}
+
+
 .btn{
 		
    		font-family: 'ZCOOL QingKe HuangYou', cursive;
