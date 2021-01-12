@@ -23,8 +23,8 @@ ul{
 
 li {
  	display: inline-block ;
- 	margin-right: 4%;
- 	margin-bottom: 2%;
+ 	margin-right: 14%;
+ 	margin-bottom: 12%;
  }
 
 a {
@@ -40,7 +40,7 @@ a {
  }
 
 #main_image{
-  margin-top: 5%;
+  margin-top: 15%;
 }
 
 .img{
