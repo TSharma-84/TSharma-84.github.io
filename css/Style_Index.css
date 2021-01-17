@@ -1,19 +1,19 @@
 .logo{
-	width: 100px;
+	width: 100%;
 }
 
 
 .btn{
 		
    		font-family: 'ZCOOL QingKe HuangYou', cursive;
-		font-size: 20px;
+		font-size: 100%;
 		background-color:orange;
 		font-color:White;
 		
 	}
 
 #Intro{
-		font-size:45px;
+		font-size: 200%;
 		font-family: 'ZCOOL QingKe HuangYou', cursive;
 		text-align: center;
 		color: White;
