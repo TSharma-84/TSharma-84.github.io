@@ -1,34 +1,36 @@
 .start-btn-center{
 		/*background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/PDaTSuJ/plexus-abstract-network-titles-cinematic-background-37_szokzaw0_thumbnail-full01.png");*/
 	 	background-image: url("/images/bg.jpg");
-
+		 zoom: 74.8%;
 	}
 
-.logo{
-  float: left;
-  width: 150px;
-  margin-left: 1%;
-}
+	.logo{
+		float: left;
+		width: 10%;
+		margin-left: 0%;
+		height: 10%;
+	  }
+	  
 
-ul{
-    color: white;
-	list-style: none;
-	font-size:45px;
-	font-family: 'ZCOOL QingKe HuangYou', cursive;
-    margin-left: 60%;
-	margin-bottom: 10px;
-	margin-top: 0px;
-}
-
-li {
- 	display: inline-block ;
- 	margin-right: 4%;
- 	margin-bottom: 15px;
- }
-
- header{
-    margin-top:0;
- }
+	  ul{
+		color: white;
+		list-style: none;
+		font-size:300%;
+		font-family: 'ZCOOL QingKe HuangYou', cursive;
+		margin-left: 60%;
+		margin-bottom: 1%;
+		margin-top: 0px;
+	  }
+	  
+	  li {
+		display: inline-block ;
+		margin-right: 4%;
+		margin-bottom: 5%;
+	   }
+	  
+	   header{
+		  margin-top:0;
+	   }
 
 .right{
 	float: left;
@@ -44,7 +46,7 @@ li {
 }
 
 .synopsis{
-	font-size: 15px;
+	font-size: 75%;
 	font-family: 'ZCOOL QingKe HuangYou', cursive;
 	margin-bottom: 8%;
 }
@@ -67,14 +69,14 @@ li {
 
 .code{
 	color: white;
-	font-size: 25px;
+	font-size: 65%;
 	font-family: 'ZCOOL QingKe HuangYou', cursive;
 	
 }	
 
 #grad{
 	color: white;
-	font-size: 25px;
+	font-size: 65%;
 	font-family: 'ZCOOL QingKe HuangYou', cursive;
 }
 
@@ -85,4 +87,4 @@ a{
 }
   	a:visited { color: white; }
   	a:hover { color: red; }​
-}
+
